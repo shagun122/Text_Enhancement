@@ -36,7 +36,7 @@ GEMINI_API_KEY=your_google_gemini_api_key
 ```sh
 npm start
 ```
-Your API will now run on **http://localhost:5000** 🎉
+API will now run on **http://localhost:5000** 
 
 ---
 
